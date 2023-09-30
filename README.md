@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @plewenhaupt
 - 👀 I’m interested in analytics, ML, databases, and understanding stuff!
-- 🌱 I’m currently learning ML, Docker and GCP
+- 🌱 I’m currently learning to handle life better.
 - 📫 How to reach me: plewenhaupt@gmail.com
 
 <!---
